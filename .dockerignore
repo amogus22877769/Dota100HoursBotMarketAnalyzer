@@ -1,0 +1,5 @@
+data.json
+.venv
+.idea
+.mypy-cache
+__pycache__
